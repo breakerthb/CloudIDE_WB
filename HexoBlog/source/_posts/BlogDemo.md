@@ -1,6 +1,6 @@
 ---
 title: 博客模板
-date: 2017-03-11 17:00:50
+date: 2017-03-18 17:00:50
 tags:
 	- blog
 categories: None
@@ -27,8 +27,9 @@ categories: None
 	
 发布：
 
-	$ hexo g // 重新生成博客
-    $ hexo d // 发布
+	$ hexo clean	// 清空
+	$ hexo g		// 重新生成博客
+    $ hexo d		// 发布
     
 # 2. 图片
 
@@ -36,7 +37,6 @@ categories: None
 
 存储路径：source/PIC/avatar.png
 显示路径：<http://breakerthb.github.io/PIC/avatar.png>
-
 
 
 
