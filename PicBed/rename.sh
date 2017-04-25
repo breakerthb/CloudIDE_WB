@@ -28,4 +28,4 @@ mv prt.png $NewName
 mv $NewName $Year/$NewName
 
 echo "NewPicName:"
-echo "$LinkPath$NewName"
+echo "$LinkPath/$NewName"
