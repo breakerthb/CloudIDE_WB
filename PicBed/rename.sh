@@ -29,3 +29,6 @@ mv $NewName $Year/$NewName
 
 echo "NewPicName:"
 echo "$LinkPath/$NewName"
+
+echo "Markdown Link:"
+echo "![]($LinkPath/$NewName)"
